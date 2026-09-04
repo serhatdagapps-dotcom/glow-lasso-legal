@@ -37,3 +37,7 @@ Site çerez bannerı, analytics scripti veya üçüncü taraf font/CDN eklemez. 
 
 ## Web metni notu
 Ana sayfa ve destek sayfası web bağlamına göre yazılmıştır; uygulamaya ait yerel veri yönetimi düğmeleri web sitesinde gösterilmez. Uygulama içi veri silme davranışı yalnızca gerekli legal açıklamalarda uygulama bağlamı açıkça belirtilerek ele alınır.
+
+## Web Copy v3 Cache Fix
+- Cache-busting query versions added to CSS/JS/favicon references.
+- Forces browsers to load the current translations.js after site copy updates.
