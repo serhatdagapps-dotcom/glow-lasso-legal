@@ -8,7 +8,7 @@ Bu klasör doğrudan GitHub Pages için hazırlanmıştır. Build aracı veya ba
 - `kvkk.html` — KVKK Aydınlatma Metni
 - `terms.html` — Terms of Use
 - `ads.html` — Advertising & Consent
-- `support.html` — Support / Contact + Delete My Data açıklaması
+- `support.html` — Support / Contact
 - `translations.js` — uygulamadaki mevcut 30 dil legal metinleriyle eşlenmiş içerik
 - `app-ads.txt.template` — AdMob doğrulaması için şablon; **şimdilik yayınlamayın/yeniden adlandırmayın**
 
@@ -34,3 +34,6 @@ Privacy/KVKK/Terms/Advertising metinleri mevcut GLOW LASSO uygulamasındaki `Leg
 
 ## Teknik not
 Site çerez bannerı, analytics scripti veya üçüncü taraf font/CDN eklemez. Statik HTML/CSS/JS'dir.
+
+## Web metni notu
+Ana sayfa ve destek sayfası web bağlamına göre yazılmıştır; uygulamaya ait yerel veri yönetimi düğmeleri web sitesinde gösterilmez. Uygulama içi veri silme davranışı yalnızca gerekli legal açıklamalarda uygulama bağlamı açıkça belirtilerek ele alınır.
